@@ -1,0 +1,87 @@
+img {
+    width: 12rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+body {
+    background-color: rgb(36, 76, 136);
+}
+
+#header {
+    height: 6rem;
+    background-color: rgb(20, 104, 201);
+    display: flex;
+    color: rgb(255, 255, 255);
+}
+
+#footer {
+    height: 6rem;
+    background-color: rgb(20, 104, 201);
+    color: rgb(255, 255, 255);
+}
+
+#nav {
+    height: 4rem;
+    background-color: rgb(53, 110, 101);
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+ul {
+    width: 5rem;
+}
+
+.headline {
+    background-color: rgb(36, 76, 136);
+    padding-top: 2rem;
+}
+
+#box {
+    display: flex;
+    background-color: rgb(24, 24, 80);
+    padding: 3%
+}
+
+p {
+    color: wheat
+}
+
+.likes {
+    color: rgb(255, 255, 255);
+    background-color: rgb(77, 175, 255);
+    display: flex;
+    font-size: 150%;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+}
+
+.btn {
+    color: white;
+}
+
+.right {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.down {
+    display: flex;
+    justify-content: space-around;
+}
+
+.thumb {
+    width: 2rem;
+    height: 2rem;
+}
+
+#box:hover {
+    transition: 1500ms;
+    transform: scale(1.05);
+}

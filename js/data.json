@@ -1,0 +1,50 @@
+var data = `[ {
+
+    "movieName": "The Usual Subjects",
+    "image": "img/suspects.jpg",
+    "description": "Absolute classic from 1996, an exciting Thriller wit a stunning twist.",
+    "likes": 0
+   
+  },
+  {
+    
+    "movieName": "Avengers Endgame",
+    "image": "img/endgame.jpg",
+    "description": "Marvels epic drama from 2019, the end of the Marvel Universe as we know.",
+    "likes": 0
+   
+  },
+ 
+  {
+    
+    "movieName": "Pride and Predjudice",
+    "image": "img/pride.jpg",
+    "description": "A 2005 romantic drama film, which plays in 18th century of England.",
+    "likes": 0
+   
+  },
+  {
+    
+    "movieName": "Password Swordfish",
+    "image": "img/ps.jpg",
+    "description": "An Action / Thriller from 2001, a movie for the hole family.",
+    "likes": 0
+   
+  },
+  {
+    
+    "movieName": "Inception",
+    "image": "img/inception.jpg",
+    "description": "A sience fiction action movie from 2010, writte and directed by Christopher Nolan.",
+    "likes": 0
+   
+  },
+  {
+    
+    "movieName": "A Serbian Film",
+    "image": "img/serbian.jpg",
+    "description": "A 2011 Thriller, just really sick movie! Gore and cringe at is best.",
+    "likes": 0
+   
+  }
+  ]`
